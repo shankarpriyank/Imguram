@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/mobile_navigation"
+        app:startDestination="@+id/navigation_hot">
+
+    <fragment
+            android:id="@+id/navigation_hot"
+            android:name="com.example.imguram.ui.feed.FeedFragment"
+            android:label="@string/nav_title_hot"
+            tools:layout="@layout/fragment_feed">
+        <argument app:argType="string" android:name="feed" android:defaultValue="hot"/>
+    </fragment>
+
+    <fragment
+            android:id="@+id/navigation_top"
+            android:name="com.example.imguram.ui.feed.FeedFragment"
+            android:label="@string/nav_title_top"
+            tools:layout="@layout/fragment_feed">
+        <argument app:argType="string" android:name="feed" android:defaultValue="top"/>
+
+    </fragment>
+
+</navigation>
