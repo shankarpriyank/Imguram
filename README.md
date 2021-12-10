@@ -1,4 +1,4 @@
-# Imugram
+# Imugram Bhosademon
 Imugram as you may have guessed is basically an Instagram clone where you can scroll through the hot and top feed and also view stories, I made this project  using all the best practices involved in Android Development. It uses the Imgur Api to bring images and showcase it to the users
 
 # Built With
