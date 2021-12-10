@@ -20,7 +20,7 @@ Imugram as you may have guessed is basically an Instagram clone where you can sc
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/75121767/145616282-5ed72725-458e-4994-974d-0c863cf3943b.jpeg" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/75121767/145616374-2be58ce8-0db5-494a-9344-71bf4507dbe1.jpeg)" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/75121767/145616374-2be58ce8-0db5-494a-9344-71bf4507dbe1.jpeg" width=270 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/75121767/145616393-a1cc2ee2-ffcc-4117-baa8-003abe9da973.jpeg" width=270 height=480></td>
   </tr>
  </table>
