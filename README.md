@@ -11,8 +11,10 @@ Imugram as you may have guessed is basically an Instagram clone where you can sc
 * [MVVM](https://developer.android.com/jetpack/guide)
 * [CodeGen](https://github.com/square/moshi/blob/master/CHANGELOG.md#version-160)
 
-# Preview 
-![Prev1](prev.jpeg)
+# Preview
+![prev3](https://user-images.githubusercontent.com/75121767/145616282-5ed72725-458e-4994-974d-0c863cf3943b.jpeg)
+![prev2](https://user-images.githubusercontent.com/75121767/145616374-2be58ce8-0db5-494a-9344-71bf4507dbe1.jpeg)
+![prev](https://user-images.githubusercontent.com/75121767/145616393-a1cc2ee2-ffcc-4117-baa8-003abe9da973.jpeg)
 
 
 
