@@ -39,7 +39,7 @@ class FeedFragment : Fragment() {
                 val request = ImageRequest.Builder(requireContext())
                     .data("https://i.imgur.com/${image.cover}.jpg")
                     // Optional, but setting a ViewSizeResolver will conserve memory by limiting the size the image should be preloaded into memory at.
-                    .size(binding.feedRecyclerView.width)
+//                    .size(binding.feedRecyclerView.width)
                     .build()
                 Coil.imageLoader(requireContext()).enqueue(request)
             }
