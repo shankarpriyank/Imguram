@@ -1,8 +1,15 @@
 # Imugram 
-Imugram as you may have guessed is basically an Instagram clone where you can scroll through the hot and top feed and also view stories, I made this project  using all the best practices involved in Android Development. It uses the Imgur Api to bring images and showcase it to the users
+Imugram as you may have guessed is basically an Instagram clone where you can scroll through the hot and top feed and also view stories, I made this project  using all the best practices involved in Android Development. It uses the Imgur Api to bring images and showcase it to the users.
+
+* Used Imgur Api to fetch the hot and top feed
+* Used Retrofit with Moshi and CodeGen to do the networking calling and then convert the data to suitable form
+* Used Coil to load images from the url provided by Imgur Api to the Image Views
+* Used ViewBinding And followed MVVM so that the data can be persistent even if the views are recreated
+
 
 # Built With
-* [Imgur API](https://apidocs.imgur.com/)
+*  [Imgur API](https://apidocs.imgur.com/)
+    
 * [Kotlin](https://kotlinlang.org/)
 * [ViewBinding](https://developer.android.com/topic/libraries/view-binding)
 * [Coil](https://github.com/coil-kt/coil)
